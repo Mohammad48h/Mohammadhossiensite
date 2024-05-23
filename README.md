@@ -12,7 +12,5 @@
     <h2>Contact Information</h2>
     <p>telegram id: mohammadAZ2</p>
     <p>Phone: 09112903662</p>
-</center>
 </div>
 </body>
-</html>
