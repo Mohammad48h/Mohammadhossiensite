@@ -1,4 +1,5 @@
 <html lang="en">
+<center>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -11,6 +12,7 @@
     <h2>Contact Information</h2>
     <p>telegram id: mohammadAZ2</p>
     <p>Phone: 09112903662</p>
+</center>
 </div>
 </body>
 </html>
