@@ -10,7 +10,7 @@
 <body>
 
 <h1>
-  Page Main Heading Goes Here
+  Page Main Heading Ges Here
 </h1>
 
 <h3> This page design is for demo purpose attacker/grabber can customize the design accordingly, but the functionality of the program exists in its script below</h3>
